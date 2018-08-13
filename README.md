@@ -1,4 +1,4 @@
 # ManuelLiaRobot
 
 
-Growth of great ideas
+Great ideas in progress
